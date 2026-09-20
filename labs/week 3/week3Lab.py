@@ -48,5 +48,6 @@ def main():
     print(f"The sum of the squares from {lower} to {upper} is {square_sum}")
     print(f"The sum of the fourth power from {lower} to {upper} is {fourth_power_sum}")
     print(f"The sum of the square root from {lower} to {upper} is {square_root_sum}")
+    
 
 main()
