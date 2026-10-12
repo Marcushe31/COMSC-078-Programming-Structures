@@ -42,7 +42,7 @@ def applyToEach(f, lower_bound, upper_bound):
 def main():
     lower = int(input("Enter a lower bound: "))
     upper = int(input("Enter an upper bound: "))
-    
+        
     print()
     print("The Consecutive Integers")
     applyToEach(display_em, lower, upper)
