@@ -9,7 +9,7 @@ numbers = [0] * 15
 #asks for each number and put it into its spotin the list 
 for i in range(15):
     numbers[i] = float(input('Enter number ' + str(i + 1) + ': '))
-    
+        
 # display the min, max, total, and average of the numbers in the list
 print('The minimum number is:', min(numbers))
 print('The maximum number is:', max(numbers))
