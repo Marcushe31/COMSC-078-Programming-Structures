@@ -2,7 +2,6 @@
 
 # 📚 COMSC-078: Programming Structures
 
-# THIS CLASS IS NOT REAL!!!
 
 <img src="https://media1.tenor.com/m/LipYl-25IlwAAAAd/republic-plato.gif" width="400">
 
